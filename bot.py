@@ -37,4 +37,4 @@ def rand():
     data = GetRandom()
     yield from bot.say(data)
 
-bot.run('MzE2OTIxODQ5MTI2NzE1Mzk1.DAcUbA.D6EOv_8zFzoyTp9PN9bK4H4LbO8')
+#bot.run()      # this needs to be uncommented and bot token needs to be added
